@@ -115,6 +115,27 @@ function setUpGUI()
     registerVariable("sublikingcei", "Cum-Eating", "How much do you like cum eating. Enter a number between 1 and 10.");
     addSpinner("Sub", "sublikingcei", 1, 10);
 
+    //Sub Pogress ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+    if (getVar("progress_anal", null) == null) 
+    {
+        setVar("progress_anal", 0);
+    }
+
+    if (getVar("progress_cei", null) == null) 
+    {
+        setVar("progress_cei", 0);
+    }
+
+    if (getVar("progress_denial", null) == null) 
+    {
+        setVar("progress_denial", 0);
+    }
+
+    if (getVar("progress_edge", null) == null) 
+    {
+        setVar("progress_edge", 0);
+    }
 
     //Domme settings ------------------------------------------------------------------------------------------------------------------------------------------------
 

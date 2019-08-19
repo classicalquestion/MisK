@@ -1,7 +1,7 @@
 DMessage("ModuleSelector start");
     while (true) {
         let folder = "Structure" + separator + "Modules" + separator +
-            ["ShortModules", "MediumModules", "LongModules", "Games", "Fetishes"][randomInteger(0, 4)]
+            ["ShortModules", "MediumModules", "LongModules", "Games", "Fetishes", "Progress"][randomInteger(0, 5)]
             + separator;
         let files = listFilesInFolder(folder);
         if (files == null) {
