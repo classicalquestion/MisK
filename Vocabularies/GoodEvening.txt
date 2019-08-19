@@ -1,0 +1,11 @@
+Good evening %SubName%
+Good evening %PetName%
+%Greetings% %SubName%
+%Greetings% %PetName%
+Good to see you this evening %SubName%
+Good to see you this evening  %PetName%
+Just who I wanted to see this evening %Grin%
+I was hoping to find you here this evening %SubName%
+I was hoping to find you here this evening %PetName%
+I was wondering if I'd get to see you this evening %SubName% %Grin%
+I was wondering if I'd get to see you this evening %PetName% %Grin% 

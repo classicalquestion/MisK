@@ -1,0 +1,13 @@
+Good bye %PetName%
+Good bye %SubName%
+Cya
+Bye bye
+Bye
+See you later
+I can't wait to see you again soon
+Have a nice day %PetName%
+So long %PetName%
+Bye for now %PetName%
+Kisses
+Take care of yourself and be good %Grin%
+See you soon

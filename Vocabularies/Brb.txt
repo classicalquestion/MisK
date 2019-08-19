@@ -1,0 +1,19 @@
+brb
+Don't move
+I'll be right back
+I will be right back
+I will be back soon
+Just a second
+I'll be back soon
+Don't move, %PetName%
+I'll be right back, %PetName%
+I will be right back, %PetName%
+I will be back soon, %PetName%
+Just a second, %PetName%
+I'll be back soon, %PetName%
+Don't move, %SubName%
+I'll be right back, %SubName%
+I will be right back, %SubName%
+I will be back soon, %SubName%
+Just a second, %SubName%
+I'll be back soon, %SubName%

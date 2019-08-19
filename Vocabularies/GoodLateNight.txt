@@ -1,0 +1,4 @@
+You're up late %SubName%
+Good evening %SubName%. Morning, whatever %Grin%
+%Greetings% %SubName%. Glad you decided to spend time with me instead of sleeping %Lol%
+%Greetings% %SubName%. Looks like someone can't sleep.

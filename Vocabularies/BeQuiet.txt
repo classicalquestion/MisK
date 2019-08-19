@@ -1,0 +1,10 @@
+be quiet!
+be quiet
+be quiet, %SubName%
+be quiet, %PetName%
+quiet
+shh
+shhhhhh
+silence
+quiet yourself
+be silent
